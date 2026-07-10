@@ -186,7 +186,7 @@ Created DAX measures for:
 
 ---
 
-# 🔍 Key Business Insights
+# Key Business Insights
 
 ## 1. Sales are evenly distributed, but profit is not
 
