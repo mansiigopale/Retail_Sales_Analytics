@@ -175,7 +175,7 @@ Created DAX measures for:
 
 ---
 
-# 📊 Key Business Metrics
+# Key Business Metrics
 
 | KPI           | Value             |
 | ------------- | ----------------- |
